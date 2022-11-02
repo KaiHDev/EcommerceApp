@@ -1,6 +1,7 @@
+//This schema is used for all product fields.
 export default {
     name: 'product',
-    title: 'product',
+    title: 'Product',
     type: 'document',
     fields: [
         {
